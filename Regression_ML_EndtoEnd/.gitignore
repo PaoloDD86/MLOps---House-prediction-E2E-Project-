@@ -56,3 +56,7 @@ Thumbs.db
 # Allow tracking of raw dataset CSVs inside data/raw
 !data/raw/
 !data/raw/*.csv
+
+# Allow tracking of raw dataset CSVs inside data/raw
+!data/raw/
+!data/raw/*.csv
